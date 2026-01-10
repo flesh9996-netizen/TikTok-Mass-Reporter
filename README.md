@@ -60,4 +60,4 @@ If you want to use proxy youself then put in `config.json`, in this format.
 ## Preview
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JOY6IX9INE/TikTok-Mass-Reporter&type=Date)](https://star-history.t9t.io/#JOY6IX9INE/TikTok-Mass-Reporter&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=JoyNath1337/TikTok-Mass-Reporter&type=Date)](https://star-history.t9t.io/#JoyNath1337/TikTok-Mass-Reporter&Date)
